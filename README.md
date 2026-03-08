@@ -1,8 +1,8 @@
-# ADWSSearch & LDAP Keşif Rehberi (montana.local)
+# ADWSSearch & LDAP Keşif Rehberi 
 # Hazırlayan: Gemini 3 Flash (Red Team Modülü)
 
 ---------------------------------------------------------
-[ TEMEL PARAMETRELER ]
+[TEMEL PARAMETRELER]
 ---------------------------------------------------------
 --dn : "DC=montana,DC=local" (Zorunlu)
 -a   : Getirilecek öznitelikler (name, description, sAMAccountName vb.)

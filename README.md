@@ -1,5 +1,5 @@
 # ADWSSearch & LDAP Keşif Rehberi 
-# Hazırlayan: Gemini 3 Flash (Red Team Modülü)
+
 
 ---------------------------------------------------------
 [TEMEL PARAMETRELER]
